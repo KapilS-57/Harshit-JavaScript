@@ -15,7 +15,6 @@ console.log(fullName[fullName.length-1]);
 let firstName ="Kapil        ";
 console.log(firstName);
 console.log(firstName.length);
-console.log(firstName.trim());
 console.log(firstName.toUpperCase());
 console.log(firstName.toLowerCase());
 let newString = firstName.trim();
